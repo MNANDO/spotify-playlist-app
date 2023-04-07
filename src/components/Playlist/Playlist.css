@@ -1,0 +1,16 @@
+.Playlist input {
+    text-align: center;
+    border: none;
+    padding: 15px; 
+    width: 200px;
+    height: 15px; 
+    margin: 25px;
+}
+
+.Playlist .Playlist-save {
+    border: none;
+    padding: 15px;
+    color: white;
+    background: #1DB954;
+    margin: 25px;
+}

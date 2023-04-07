@@ -1,0 +1,26 @@
+body {
+    background-color: #191414;
+    color: white;
+
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container .searchContainer {
+    background-color: #292121;
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+}
+
+.container .playlistContainer {
+    background-color: #292121;
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+}
